@@ -1,2 +1,2 @@
-# DiscordBot for HardwareData
- This project will develop a discord bot that show a bounch of data about your pc hardware, in the future i pretend to add some graphics about the data colection and some simulations the prevent error problens in CPU's, RAM's and simillars
+# DiscordBot for Fun
+ This project will develop a discord bot that show have a lot focus in making dumb things in the server, like very rarely he will koin the discord chat and runs a random audio of a list of chareters inputed in it, and you could chose what charater the bot will be representing, and hw will do various discord utilitys, that you could put in your server to organize and do something like that.
