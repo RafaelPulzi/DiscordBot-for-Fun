@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "discordbot-for-hardwaredata",
+  "description": "This project will develop a discord bot that show a bounch of data about your pc hardware, in the future i pretend to add some graphics about the data colection and some simulations the prevent error problens in CPU's, RAM's and simillars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
